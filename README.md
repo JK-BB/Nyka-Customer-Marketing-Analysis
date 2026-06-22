@@ -105,6 +105,16 @@ Includes:
 - Average Order Value
 - Monthly Sales Trends
 - Category Performance
+- ## Dashboard Preview
+
+### Sales Dashboard
+![Sales Dashboard](sales_dashboard.png)
+
+### Marketing Dashboard
+![Marketing Dashboard](marketing_dashboard.png)
+
+### Customer Dashboard
+![Customer Dashboard](customer_dashboard.png)
 
 ---
 
