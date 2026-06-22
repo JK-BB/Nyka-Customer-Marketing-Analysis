@@ -106,8 +106,8 @@ Includes:
 - Monthly Sales Trends
 - Category Performance
 - ## Dashboard Preview
-dashboard.png
----
+![Dashboard](dashboard.png)
+
 
 ## Marketing Performance
 
