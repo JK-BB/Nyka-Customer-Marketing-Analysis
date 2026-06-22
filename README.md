@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/nykaa_logo.png" width="250">
+  <img src="nykaa_logo.png" width="250">
 </p>
 
 <h1 align="center">Nykaa Customer & Marketing Analytics 📊</h1>
